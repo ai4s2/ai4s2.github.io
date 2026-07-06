@@ -1302,7 +1302,8 @@ figcaption {
 }
 
 .blog-list-copy h2 {
-  font-size: clamp(32px, 4vw, 52px);
+  font-size: clamp(24px, 2.6vw, 36px);
+  line-height: 1.12;
 }
 
 .blog-list-copy p {
